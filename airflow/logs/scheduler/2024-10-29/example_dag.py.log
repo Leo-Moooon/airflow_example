@@ -1,0 +1,36 @@
+[2024-10-29T10:46:07.011+0900] {processor.py:186} INFO - Started process (PID=90317) to work on /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:46:07.012+0900] {processor.py:914} INFO - Processing file /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py for tasks to queue
+[2024-10-29T10:46:07.012+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.012+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:46:07.026+0900] {processor.py:925} INFO - DAG(s) 'simple_dag' retrieved from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:46:07.120+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.120+0900] {override.py:1907} INFO - Created Permission View: can read on DAG:simple_dag
+[2024-10-29T10:46:07.123+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.123+0900] {override.py:1907} INFO - Created Permission View: can edit on DAG:simple_dag
+[2024-10-29T10:46:07.125+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.125+0900] {override.py:1907} INFO - Created Permission View: can delete on DAG:simple_dag
+[2024-10-29T10:46:07.128+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.128+0900] {override.py:1907} INFO - Created Permission View: can read on DAG Run:simple_dag
+[2024-10-29T10:46:07.130+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.130+0900] {override.py:1907} INFO - Created Permission View: can delete on DAG Run:simple_dag
+[2024-10-29T10:46:07.132+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.132+0900] {override.py:1907} INFO - Created Permission View: menu access on DAG Run:simple_dag
+[2024-10-29T10:46:07.134+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.133+0900] {override.py:1907} INFO - Created Permission View: can create on DAG Run:simple_dag
+[2024-10-29T10:46:07.134+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.134+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T10:46:07.138+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.138+0900] {dag.py:3262} INFO - Creating ORM DAG for simple_dag
+[2024-10-29T10:46:07.138+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:07.138+0900] {dag.py:4180} INFO - Setting next_dagrun for simple_dag to None, run_after=None
+[2024-10-29T10:46:07.143+0900] {processor.py:208} INFO - Processing /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py took 0.134 seconds
+[2024-10-29T10:46:38.635+0900] {processor.py:186} INFO - Started process (PID=90350) to work on /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:46:38.636+0900] {processor.py:914} INFO - Processing file /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py for tasks to queue
+[2024-10-29T10:46:38.636+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:38.636+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:46:38.650+0900] {processor.py:925} INFO - DAG(s) 'simple_dag' retrieved from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:46:38.685+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:38.685+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T10:46:38.689+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:46:38.689+0900] {dag.py:4180} INFO - Setting next_dagrun for simple_dag to None, run_after=None
+[2024-10-29T10:46:38.724+0900] {processor.py:208} INFO - Processing /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py took 0.091 seconds
+[2024-10-29T10:47:31.644+0900] {processor.py:186} INFO - Started process (PID=90491) to work on /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:47:31.645+0900] {processor.py:914} INFO - Processing file /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py for tasks to queue
+[2024-10-29T10:47:31.645+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:47:31.645+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:47:31.660+0900] {processor.py:925} INFO - DAG(s) 'simple_dag' retrieved from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:47:31.695+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:47:31.694+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T10:47:31.699+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:47:31.699+0900] {dag.py:4180} INFO - Setting next_dagrun for simple_dag to None, run_after=None
+[2024-10-29T10:47:31.733+0900] {processor.py:208} INFO - Processing /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py took 0.091 seconds
+[2024-10-29T10:48:03.258+0900] {processor.py:186} INFO - Started process (PID=90527) to work on /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:48:03.258+0900] {processor.py:914} INFO - Processing file /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py for tasks to queue
+[2024-10-29T10:48:03.259+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:48:03.259+0900] {dagbag.py:588} INFO - Filling up the DagBag from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:48:03.273+0900] {processor.py:925} INFO - DAG(s) 'simple_dag' retrieved from /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py
+[2024-10-29T10:48:03.309+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:48:03.309+0900] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-29T10:48:03.313+0900] {logging_mixin.py:190} INFO - [2024-10-29T10:48:03.313+0900] {dag.py:4180} INFO - Setting next_dagrun for simple_dag to None, run_after=None
+[2024-10-29T10:48:03.347+0900] {processor.py:208} INFO - Processing /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py took 0.091 seconds

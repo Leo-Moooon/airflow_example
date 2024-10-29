@@ -1,0 +1,48 @@
+[2024-10-29T10:46:06.423+0900] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2024-10-29T10:46:06.423+0900] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2024-10-29T10:46:06.423+0900] {manager.py:485} INFO - Checking for new files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags every 30 seconds
+[2024-10-29T10:46:06.423+0900] {manager.py:821} INFO - Searching for files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:46:06.425+0900] {manager.py:824} INFO - There are 1 files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:46:07.272+0900] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py                           1           0  0.80s           2024-10-29T01:46:07                      43
+================================================================================
+[2024-10-29T10:46:37.003+0900] {manager.py:821} INFO - Searching for files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:46:37.005+0900] {manager.py:824} INFO - There are 1 files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:46:38.856+0900] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py                           1           0  0.81s           2024-10-29T01:46:38                      10
+================================================================================
+[2024-10-29T10:46:47.887+0900] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2024-10-29T10:47:31.005+0900] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2024-10-29T10:47:31.005+0900] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2024-10-29T10:47:31.005+0900] {manager.py:485} INFO - Checking for new files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags every 30 seconds
+[2024-10-29T10:47:31.006+0900] {manager.py:821} INFO - Searching for files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:47:31.006+0900] {manager.py:824} INFO - There are 1 files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:47:31.859+0900] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py                           1           0  0.80s           2024-10-29T01:47:31                      10
+================================================================================
+[2024-10-29T10:48:01.585+0900] {manager.py:821} INFO - Searching for files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:48:01.587+0900] {manager.py:824} INFO - There are 1 files in /Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags
+[2024-10-29T10:48:03.480+0900] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                 PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/Users/leomoon/GitHub/bookips/airflow_sample/airflow/dags/example_dag.py                           1           0  0.86s           2024-10-29T01:48:03                      10
+================================================================================
+[2024-10-29T10:48:10.200+0900] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
