@@ -76,3 +76,8 @@ $ airflow scheduler
 
 * example DAG가 모두 제거된 상태로 Airflow 웹서버에 접속하면 아래와 같이 나타납니다.
   ![img.png](src/img.png)
+
+
+#### 개발환경
+* M1 Macbook
+* 가상환경 및 관리: Poetry
